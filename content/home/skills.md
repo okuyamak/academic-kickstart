@@ -26,17 +26,23 @@ weight = 7
   icon_pack = "fab"
   name = "R"
   description = "90%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "50%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "map-marked-alt"
+  icon_pack = "fab"
+  name = "GIS"
+  description = "70%"
+
+[[feature]]
+  icon = "language"
+  icon_pack = "fab"
+  name = "English & Japanese"
   description = "100%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
 +++

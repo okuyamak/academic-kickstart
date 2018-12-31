@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Health Equity",
+    "Rural Populaiton Health",
+    "Geospatial Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MPH in Epidemiology"
+  institution = "University of Colorado Denver"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Exchange Program in Public Health"
+  institution = "Baylor University"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Sports and Health Science"
+  institution = "Hosei University"
+  year = 2014
  
 +++
 
 # Biography
-
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+- I'm a Junior Researcher at the Center for Community-based Healthcare Research and Education at Shimane University.
+- I study neighborhood environments and rural population health.
+- I'm specialized in GIS to objectively evaluate neighborhood enviornment. 
