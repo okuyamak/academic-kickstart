@@ -40,7 +40,8 @@ date_format = "January 2006"
   location = "Colorado, US"
   date_start = "2016-10-01"
   date_end = "2017-06-01"
-  description = """Analyzed state survey data."""
+  description = """Analyzed state health survey data to identify perception for neighborhood environment by socio-economic status."""
+  
 
 [[experience]]
   title = "Data Analyst"
@@ -49,6 +50,6 @@ date_format = "January 2006"
   location = "Colorado, US"
   date_start = "2016-08-01"
   date_end = "2016-12-01"
-  description = """Assisted in analyzing Healthcare evaluation data in Liberia"""
+  description = """Analyzed healthcare evaluation data (SARS by WHO) in Liberia. """
 
 +++
