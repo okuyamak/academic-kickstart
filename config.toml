@@ -65,11 +65,11 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "ko215ok@gmail.com"
   address = "Enya 223-8, Izumo City, Shimane 693-8501, Japan"
-  office_hours = """
+  #office_hours = """
   #Monday 10:00 to 13:00<br>
   #Wednesday 09:00 to 10:00<br>
   #Otherwise email to book an appointment
-  """
+  #"""
   phone = ""
   skype = ""
   telegram = ""
@@ -266,14 +266,14 @@ enableGitInfo = false
     link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://www.linkedin.com/in/kenta-okuyama-31b425a2/"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.co.jp/citations?hl=ja&user=DuSHxzsAAAAJ&scilu=&scisig=AMstHGQAAAAAXCqwsr5FuBOHLVwIvw9Tjymazw1ZSoMU&gmla=AJsN-F7mqCgVig3PhOt1CFyURMrpWTqKpLxg8iFyiGTceP7ch4ttxhYIpnVAlGtpzyGDX6V0IqaUiHUONA0pp18OXxJmud6qOPINpLMTst9pgiy8c8Hhfyf7GZ9Awxs-zWsch0mnmo9r&sciund=17930750455800005016"
 
   [[params.social]]
     icon = "github"
@@ -315,10 +315,10 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+#[[menu.main]]
+ # name = "Tutorials"
+ # url = "/tutorial/"
+ # weight = 5
 
 [[menu.main]]
   name = "Contact"

@@ -35,13 +35,13 @@ weight = 7
   
 [[feature]]
   icon = "map-marked-alt"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "GIS"
   description = "70%"
 
 [[feature]]
   icon = "language"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "English & Japanese"
   description = "100%"  
   
