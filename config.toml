@@ -53,14 +53,14 @@ enableGitInfo = false
 
   # Your details.
   name = "Kenta Okuyama"
-  role = "Junior Researcher at Shimane University"
+  role = "Researcher at Shimane University"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Center for Community-based Healthcare Research and Education", url = "https://www.cohre.jp/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "ProfilePhoto1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "ProfilePhoto2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "ko215ok@gmail.com"
