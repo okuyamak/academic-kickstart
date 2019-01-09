@@ -34,6 +34,6 @@ weight = 5
 +++
 
 # Biography
-- I'm a Junior Researcher at the Center for Community-based Healthcare Research and Education at Shimane University.
+- I'm a full-time researcher at the Center for Community-based Healthcare Research and Education at Shimane University.
 - I study neighborhood environments and rural population health.
 - I'm specialized in GIS to objectively evaluate neighborhood enviornment. 
