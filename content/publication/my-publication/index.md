@@ -1,5 +1,5 @@
 +++
-title = "My Publication"
+title = "The reach of bicycling in rural, low-density places"
 date = 2019-01-18T23:23:59+09:00
 draft = false
 
@@ -24,7 +24,7 @@ publication_short = "TRB"
 # Abstract and optional shortened version.
 abstract = "Lessons derived from the urban experience of bicycling may not be broadly supportive of bicycling in rural, small, and low-density (RSLD) places because of differences in built environment, social, and political contexts. In this study, the hypothesis that bicycling was primarily an urban activity was investigated. Binary logistic regression was used to compare the frequency of bicycling and the population characteristics of bicyclists across urban and RSLD places. Multiple operational definitions of urban-rural continua were used to examine whether the results were sensitive to how RSLD places were defined. The data for bicycling were from the 2009 National Household Travel Survey, which was designed to represent the population of the United States. Bicycling was found to be primarily, but not exclusively, an urban activity. Moreover, women and youths were more likely to bicycle in RSLD places compared with urban places. These findings suggest that an urban perspective on bicycling could limit the success of initiatives aiming to increase the diversity of populations that bicycle. Developing a base of empirical knowledge of bicycling in RSLD places is a necessary step toward developing more inclusive and effective multimodal transportation strategies."
 
-abstract_short = ""
+abstract_short = "The paper highligts the need of policy promoting bicycling in rural and low-density areas."
 
 # Is this a selected publication? (true/false)
 selected = true 
