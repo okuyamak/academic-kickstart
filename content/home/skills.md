@@ -28,6 +28,12 @@ weight = 7
   description = "90%"
 
 [[feature]]
+  icon = "latex"
+  icon_pack = "fab"
+  name = "LaTeX"
+  description = "70%"
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
