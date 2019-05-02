@@ -28,9 +28,9 @@ weight = 7
   description = "90%"
 
 [[feature]]
-  icon = "latex"
+  icon = "file-signature"
   icon_pack = "fab"
-  name = "LaTeX"
+  name = "LaTex"
   description = "70%"
 
 [[feature]]

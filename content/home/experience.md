@@ -39,8 +39,8 @@ date_format = "January 2006"
   company_url = ""
   location = "Colorado, US"
   date_start = "2016-10-01"
-  date_end = "2017-06-01"
-  description = """Analyzed state health survey data to identify perception for neighborhood environment by socio-economic status."""
+  date_end = "2017-04-01"
+  description = """Analyzed state statewide population health data to create Physical Activity and Built Environment fact sheet."""
   
 
 [[experience]]
@@ -48,8 +48,8 @@ date_format = "January 2006"
   company = "Center for Global Health, University of Colorado Denver"
   company_url = ""
   location = "Colorado, US"
-  date_start = "2016-08-01"
+  date_start = "2016-10-01"
   date_end = "2016-12-01"
-  description = """Analyzed healthcare evaluation data (SARS by WHO) in Liberia. """
+  description = """Analyzed the healthcare quality in Liberia by System Availability and Rediness Assessment data developed by WHO.""" 
 
 +++
