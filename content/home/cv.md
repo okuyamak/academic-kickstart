@@ -1,1 +1,1 @@
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/cv2019.pdf" %}}Download my CV{{% /staticref %}}
