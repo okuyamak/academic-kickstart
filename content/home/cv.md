@@ -1,7 +1,7 @@
 +++
 
 widget = "cv"
-active = true
+active = false 
 date = 2017-09-20T00:00:00
 
 title = "CV"
