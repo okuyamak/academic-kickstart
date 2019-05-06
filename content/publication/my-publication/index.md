@@ -27,7 +27,7 @@ abstract = "Lessons derived from the urban experience of bicycling may not be br
 abstract_short = "The paper highligts the need of policy promoting bicycling in rural and low-density areas."
 
 # Is this a selected publication? (true/false)
-selected = true 
+selected = false 
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
