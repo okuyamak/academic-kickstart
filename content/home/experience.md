@@ -19,12 +19,23 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "PhD student"
+  company = "Center for Primary Health Care Research, Lund University"
+  company_url = ""
+  location = "Malmö, Sweden"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """
+  I'm on the project "Neighborhood environments and cardiovascular related diseases". My PhD projects will investigate what kind of physical, social, and natural enviroments lies in the causal pathway between Socio-economic status and chronic conditions, by utlizing Swedish and Japanese population databases. 
+  """
+
+[[experience]]
   title = "Researcher"
   company = "Center for Community-based Healthcare Research and Education"
   company_url = ""
   location = "Shimane, Japan"
   date_start = "2017-10-01"
-  date_end = ""
+  date_end = "2019-08-31"
   description = """
   Responsibilities include:
   
@@ -40,7 +51,7 @@ date_format = "January 2006"
   location = "Colorado, US"
   date_start = "2016-10-01"
   date_end = "2017-04-01"
-  description = """Analyzed state statewide population health data to create Physical Activity and Built Environment fact sheet."""
+  description = """Analyzed statewide population health data to create Physical Activity and Built Environment fact sheet."""
   
 
 [[experience]]

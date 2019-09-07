@@ -10,7 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Neighborhood environments",
     "Health Equity",
+    "Chronic conditions",
     "Rural Populaiton Health",
     "Geospatial Analysis"
   ]
@@ -34,6 +36,6 @@ weight = 5
 +++
 
 # Biography
-- I'm a full-time researcher at the Center for Community-based Healthcare Research and Education at Shimane University.
-- I study neighborhood environments and rural population health.
-- I'm specialized in GIS to objectively evaluate neighborhood enviornment. 
+- I'm a full-time PhD student at the Center for Primary Health Care Research at Lund University.
+- I study neighborhood environments and cardiovascular related diseases.
+- I'm specialized in GIS to objectively measure neighborhood enviornments as well as data visualization. 

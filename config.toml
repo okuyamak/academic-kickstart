@@ -53,18 +53,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Kenta Okuyama"
-  role = "Researcher at Shimane University"
+  role = "PhD student at Lund University"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Center for Community-based Healthcare Research and Education", url = "https://www.cohre.jp/" } ]
+  organizations = [ { name = "Center for Primary Health Care Research", url = ""} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "ProfilePhoto2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "ko215ok@gmail.com"
-  address = "Enya 223-8, Izumo City, Shimane 693-8501, Japan"
+  address = "Jan Waldenströms gata 35, 20502 Malmö, Sweden"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
   #Wednesday 09:00 to 10:00<br>
