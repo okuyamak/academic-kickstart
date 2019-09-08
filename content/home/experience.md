@@ -26,7 +26,7 @@ date_format = "January 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  I'm on the project "Neighborhood environments and cardiovascular related diseases". My PhD projects will investigate what kind of physical, social, and natural enviroments lies in the causal pathway between Socio-economic status and chronic conditions, by utlizing Swedish and Japanese population databases. 
+  I'm on the project "Neighborhood environments and cardiovascular related diseases". My PhD projects will investigate what kind of physical, social, and natural enviroments lie in the causal pathway between Socio-economic status and chronic conditions, by utlizing Swedish and Japanese population databases. 
   """
 
 [[experience]]
